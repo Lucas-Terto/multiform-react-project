@@ -4,6 +4,7 @@ export const Container = styled.div`
     background-color: #02044a;
     color: #fff;
     min-height: 100vh;
+    
 `
 
 export const Area = styled.div`
@@ -26,4 +27,5 @@ export const Page = styled.div`
     flex: 1;
     padding-left: 40px;
     padding-top: 40px;
+    margin-bottom: 30px;
 `
