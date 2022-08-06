@@ -8,7 +8,7 @@ export const Container = styled.div`
 
 export const Area = styled.div`
     margin: auto;
-    max-width: 10em;
+    max-width: 980px;
     min-width: 100vh;
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ export const Steps = styled.div`
     display: flex;
 `
 export const Sidebar = styled.div`
-    width: 2.5em;
+    width: 250px;
     border-right: 1px solid #16195c;
 `
 export const Page = styled.div`
