@@ -43,6 +43,14 @@ export const Theme = ({children}:Props) => {
                             path="/step3"
                             active={state.currentStep === 3}
                         />
+
+                        <SidebarItem 
+                            title="Conclusão"
+                            description="Comprovante de inscrição"
+                            icon="check"
+                            path="/finalstep"
+                            active={state.currentStep === 4}
+                        />
                         
                     </C.Sidebar>
                     <C.Page>

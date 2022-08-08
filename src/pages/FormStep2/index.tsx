@@ -39,7 +39,7 @@ export const FormStep2 = () => {
     return (
         <Theme>
             <C.Container>
-                <p>Passo 2/3 - {state.currentStep}</p>
+                <p>Passo 2/4 - {state.currentStep}</p>
                 <h1>Olá {state.name}, como você se descreve?</h1>
                 <p>Escolha a opção que representa seu estado atual.</p>
 
