@@ -1,4 +1,4 @@
-### Formulário com múltiplas etapas, desenvolvido em ReactJS, TypeScript, Styled-Components e mais.
+# Formulário com múltiplas etapas, desenvolvido em ReactJS, TypeScript, Styled-Components e mais.
 
 ## Getting Started with Create React App
 
